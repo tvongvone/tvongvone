@@ -10,6 +10,13 @@
   Greetings!
   <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="30px"/>
   </h1>
+  Here are some of my projects:
+  
+  <a href="https://movieluvers.onrender.com">TONYFLIX</a> 🎥
+  
+  <a href="https://pinsta-project.onrender.com">Pinsta</a> 🖼️
+  
+  <a href="https://tonys-air-bnb.onrender.com">Tonysnb</a> 🏘️
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
